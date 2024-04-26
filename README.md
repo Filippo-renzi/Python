@@ -1,3 +1,3 @@
-in alcuni programmi python vengono usate librerie da implementare esternamente    
+In alcuni programmi python vengono usate librerie da implementare esternamente    
  es:    
--ezgraphics                
+-*ezgraphics*                
